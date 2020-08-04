@@ -1,0 +1,33 @@
+body{ 
+			margin: 0 auto; 
+			width:600px; 
+			font: 13px Calibri;
+			background: #FFF;
+			color: #000;
+		}
+#main{
+	background:#FFF;
+}
+table tr td{
+	padding: 5px 1px 5px 1px;
+	font-size: 13px;
+}
+table tr td span{ 
+	font-weight: 600;
+	font-size: 13px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.value{
+	font-weight: 100;
+	font-size: 13px;
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+h4{
+	font-family: Cambria;
+	font-weight: bolder;
+}
+#footer1{ background: #EEB220; padding:3px; text-align:center; }
+#footer2{ background: rgba(1,1,1,0.8); color:#FFF; padding:3px; text-align:center; }
+#footer1 div{ font-size: 16px; }
